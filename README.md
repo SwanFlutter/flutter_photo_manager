@@ -21,10 +21,14 @@ you can get assets (image/video/audio) on Android, iOS, macOS and OpenHarmony.
 
 ## Projects using this plugin
 
-| name                 | pub                                                                                                                | github                                                                                                                                                                  |
-|:---------------------|:-------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| wechat_assets_picker | [![pub package](https://img.shields.io/pub/v/wechat_assets_picker)](https://pub.dev/packages/wechat_assets_picker) | [![star](https://img.shields.io/github/stars/fluttercandies/flutter_wechat_assets_picker?style=social)](https://github.com/fluttercandies/flutter_wechat_assets_picker) |
-| wechat_camera_picker | [![pub package](https://img.shields.io/pub/v/wechat_camera_picker)](https://pub.dev/packages/wechat_camera_picker) | [![star](https://img.shields.io/github/stars/fluttercandies/flutter_wechat_camera_picker?style=social)](https://github.com/fluttercandies/flutter_wechat_camera_picker) |
+```
+| Package Name          | Pub Package Badge                                                                 | GitHub Stars Badge                                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| wechat_assets_picker  | [![pub package](https://img.shields.io/pub/v/wechat_assets_picker)](https://pub.dev/packages/wechat_assets_picker) | [![star](https://img.shields.io/github/stars/fluttercandies/flutter_wechat_assets_picker?style=social)](https://github.com/fluttercandies/flutter_wechat_assets_picker) |
+| wechat_camera_picker  | [![pub package](https://img.shields.io/pub/v/wechat_camera_picker)](https://pub.dev/packages/wechat_camera_picker) | [![star](https://img.shields.io/github/stars/fluttercandies/flutter_wechat_camera_picker?style=social)](https://github.com/fluttercandies/flutter_wechat_camera_picker) |
+| flutter_better_pickers | [![pub package](https://img.shields.io/pub/v/flutter_better_pickers)](https://pub.dev/packages/flutter_better_pickers) | [![star](https://img.shields.io/github/stars/SwanFlutter/flutter_better_pickers?style=social)](https://github.com/SwanFlutter/flutter_better_pickers) |
+
+```
 
 ## Articles about this plugin
 
